@@ -1,0 +1,6 @@
+pandas
+skit-learn
+re
+os
+nltk
+tensorflow

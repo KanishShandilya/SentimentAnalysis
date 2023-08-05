@@ -1,0 +1,21 @@
+{
+  "original_dataset_path": "../original_data/Reviews.csv",
+  "transformed_dataset_path": "../transformed_data/",
+  "transformed_data_fileName": "Reviews_Transformed.csv",
+  "train_data": "../train_data",
+  "test_data": "../test_data",
+  "train_data_for_preprocessing": "../train_data/x_train.csv",
+  "test_data_for_preprocessing": "../test_data/x_test.csv",
+  "y_train_path": "../train_data/y_train.csv",
+  "y_test_path": "../test_data/y_test.csv",
+  "initialPreprocessDataPath": "../initial_preprocessed_data",
+  "train_data_initialPreprocess": "../initial_preprocessed_data/x_initialpreprocess_train.csv",
+  "test_data_initialPreprocess": "../initial_preprocessed_data/x_initialpreprocess_test.csv",
+  "train_data_completePreprocess": "../complete_preprocess_data/x_completepreprocess_train.csv",
+  "test_data_completePreprocess": "../complete_preprocess_data/x_completepreprocess_test.csv",
+  "tfidf_obj_save": "../tfidf_vectorizer/tf_idf.bin",
+  "logisticReg_file_path": "../best_model/logistic_reg_model.sav",
+  "nb_file_path": "../best_model/naive_bayes_model.sav",
+  "tokenizer_obj_path": "../tf_tokenizer/tokenizer.pickle",
+  "model_save_path": "../best_model/tf_model.keras"
+}
